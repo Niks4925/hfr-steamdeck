@@ -1,0 +1,37 @@
+name: HFR Update
+
+on: 
+  - push
+  - workflow_dispatch
+
+env:
+  HFR_LOGIN: ${{ vars.HFR_LOGIN }}
+  HFR_PASSWD: ${{ secrets.HFR_PASSWD }}
+
+jobs:
+  update-hfr:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Display Python version
+        run: python -c "import sys; print(sys.version)"
+
+      - name: Install python dependencies
+        run: |
+          python3 -m pip install requests
+          python3 -m pip install BeautifulSoup4
+
+      - name: Update posts
+        run: |
+          python git2hfr/git2hfr.py --auto-login --edit-post 5 204789 15633439 --content-file fp.txt

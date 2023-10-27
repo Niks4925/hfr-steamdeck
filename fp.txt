@@ -1,0 +1,9 @@
+ça vous dit pas de faire une première page collaborative avec ça:
+https://forum.hardware.fr/hfr/Programmation/Divers-6/automatique-participative-posts-sujet_146781_1.htm
+https://github.com/XaaT/hfr-git2hfr
+ça implique que celui qui récupère le premier post héberge le script php sur un serveur à lui histoire de gérer ses cookies d'identification.
+
+Ou alors il faudrait mettre un lien vers un wiki mais bon c'est pas trop l'esprit HFR :o
+
+EDIT:
+test auto update
