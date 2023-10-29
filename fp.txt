@@ -1,9 +1,68 @@
-ça vous dit pas de faire une première page collaborative avec ça:
-https://forum.hardware.fr/hfr/Programmation/Divers-6/automatique-participative-posts-sujet_146781_1.htm
-https://github.com/XaaT/hfr-git2hfr
-ça implique que celui qui récupère le premier post héberge le script php sur un serveur à lui histoire de gérer ses cookies d'identification.
+[b]Bienvenue sur le topic du Steam Deck[/b]
+[url=https://i.imgur.com/gyAVmVr.png][img]https://i.imgur.com/gyAVmVr.png[/img][/url]
+[i]Premier post en construction...
+Ce premier post est collaboratif et est géré par ce [url=https://github.com/Niks4925/hfr-steamdeck]dépôt github[/url]
+Pour apporter des modifications il suffit de posséder un compte github et d'editer le fichier [url=https://github.com/Niks4925/hfr-steamdeck/blob/main/fp.txt]fp.txt[/url]
+Les modifications sont ensuite appliquées au premier post après validation.[/i]
 
-Ou alors il faudrait mettre un lien vers un wiki mais bon c'est pas trop l'esprit HFR :o
+[i]Disclaimer: Uune grosse partie de ce post est issu de [url=https://www.reddit.com/r/SteamDeck/wiki/index/]reddit[/url]
+Je me suis souvent contenté de traduire les informations disponibles plutôt que de réinventer la roue.
+Celui-ci évoluera très probablement vers quelque chose de plus typé HFR avec le temps.[/i]
 
-EDIT:
-test auto update
+[b]Qu'est ce que le Steam Deck ?[/b]
+Le Steam Deck (abrégé SD par la suite) est un PC portable de gaming fabriqué par Valve avec le form factor d'une console portable. 
+C'est avant tout un PC, il peut donc faire quasiment tout ce qu'un PC portable peut faire.
+SteamOS, qui est l'OS équipant le SD, facilite la vie des gamers en apportant ce côté user friendly propre aux consoles de jeu.
+
+Comme c'est un PC, il y a bien bien sûr un peu plus de bidouillage à faire que sur une console pour faire tourner les jeux dans les meilleures conditions.
+Mais la plupart du temps les réglages proposés par défaut suffisent à faire fonctionner la majorité des jeux.
+
+Le SD, fonctionne sous SteamOS qui est une distribution Linux. Si le jeu n'existe pas nativement sous Linux, il fonctionnera grâce à une couche logicielle de compatibilité appelée Proton.
+Cela fonctionne plutôt bien sur énormément de jeux, mais il est toujours possible que certains fonctionnent mal voire pas du tout.
+C'est particulièrement le cas sur les jeux en ligne multi-joueurs qui utilisent des logiciels anti-triche qui ne sont pas supportés sous Linux.
+
+Valve utilise un système de vérification qui classe les jeux disponibles sous Steam en 4 catégories :
+[*] Verified
+[*] Playable
+[*] Unsupported
+[*] Untested
+
+Il y aura assez peu de problèmes avec les jeux classés comme [i]Verified[/i] et [i]Playable[/i], mais même les jeux qui sont listés comme [i]Unsupported[/i] peuvent parfois être joués sans problèmes.
+Certains jeux necessitent quelques ajustements dans les paramètres pour fonctionner, les informations sur les réglages appropriés sont listés sur le site [url=https://www.protondb.com/]ProtonDB[/url].
+Sur ce [url=https://store.steampowered.com/steamdeck/mygames]site web de Steam[/url], vous pouvez vérifier quels jeux de votre bibliothèque Steam sont jouables ou non supportés.
+
+Il est cependant possible d'installer Windows dessus.
+
+[b]Tarifs et caractéristiques techniques[/b]
+[url=https://i.imgur.com/TqsuG3C.png][img]https://i.imgur.com/TqsuG3C.png[/img][/url]
+
+[url=https://www.steamdeck.com/fr/tech]Caractéristiques[/url]
+
+[b]Que faire en premier lieu[/b]
+Installer quelques jeux et jouer avec !
+Voici quelques recommendations pour prendre en main le SD:
+[*] [url=https://store.steampowered.com/app/1902490/Aperture_Desk_Job/]Aperture Desk Job[/url]
+[*] [url=https://store.steampowered.com/app/1794680/Vampire_Survivors/]Vampire Survivors[/url]
+
+[b]Mode Desktop[/b]
+Le Steam Deck a un mode Desktop auquel vous pouvez accéder par le menu Power qui apparait quand vous appuyez sur le bouton Steam Deck (en bas à gauche), ou en maintenant le bouton Power appuyé.
+De là, en sélectionnant "Switch to Desktop", l'environnement de bureau KDE Plasma va se charger.
+KDE Plasma est l'environnement de bureau que Valve a choisi pour le SD. Il est assez similaire à Windows sous certains aspects mais différents sur d'autres...
+
+[b]Discover store[/b]
+Le Steam Deck utilise des applications Flatpak.
+C'est une façon de packager et de distribuer des applications qui fonctionneront sous toutes les distributions Linux.
+Le SD embarque un "app store" appelé Discover, accessible en mode Desktop.
+Cette application peut télécharger et mettre à jour les applications qui sont disponibles sous [url=https://flathub.org/home]Flathub[/url].
+
+[b]Gestion des fichiers[/b]
+Comment upload des fichiers sur votre Steam Deck ?
+
+[*] Par SSH:
+Ouvrez l'applicationKonsole en mode Desktop et tapez les commandes suivantes:
+[cpp]passwd[/cpp]
+Ceci permet de définir un mot de passe pour l'utilisateur [i]deck[/i] si ce n'est déjà fait.
+
+[cpp]sudo systemctl enable --now sshd[/cpp]
+Cette commande va activer le serveur sshd à chaque démarrage du SD.
+Vous pouvez maintenant utiliser [url=https://filezilla-project.org/download.php]Filezilla ou tout autre client ssh de votre choix[/url]

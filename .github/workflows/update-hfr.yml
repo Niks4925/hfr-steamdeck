@@ -34,4 +34,4 @@ jobs:
 
       - name: Update posts
         run: |
-          python git2hfr/git2hfr.py --auto-login --edit-post 5 204789 15633439 --content-file fp.txt
+          python git2hfr/git2hfr.py --auto-login --edit-post 5 204789 15123547 --content-file fp.txt
