@@ -1,13 +1,11 @@
 [b]Bienvenue sur le topic du Steam Deck[/b]
 [url=https://i.imgur.com/gyAVmVr.png][img]https://i.imgur.com/gyAVmVr.png[/img][/url]
-[i]Premier post en construction...
+[fixed]Premier post en construction...
 Ce premier post est collaboratif et est géré par ce [url=https://github.com/Niks4925/hfr-steamdeck]dépôt github[/url]
 Pour apporter des modifications il suffit de posséder un compte github et d'editer le fichier [url=https://github.com/Niks4925/hfr-steamdeck/blob/main/fp.txt]fp.txt[/url]
-Les modifications sont ensuite appliquées au premier post après validation.[/i]
+Les modifications sont ensuite appliquées au premier post après validation.[/fixed]
 
-[i]Disclaimer: Uune grosse partie de ce post est issu de [url=https://www.reddit.com/r/SteamDeck/wiki/index/]reddit[/url]
-Je me suis souvent contenté de traduire les informations disponibles plutôt que de réinventer la roue.
-Celui-ci évoluera très probablement vers quelque chose de plus typé HFR avec le temps.[/i]
+[fixed]Disclaimer: Une grosse partie de ce post est issu de [url=https://www.reddit.com/r/SteamDeck/wiki/index/]reddit[/url][/fixed]
 
 [b]Qu'est ce que le Steam Deck ?[/b]
 Le Steam Deck (abrégé SD par la suite) est un PC portable de gaming fabriqué par Valve avec le form factor d'une console portable. 
@@ -18,7 +16,7 @@ Comme c'est un PC, il y a bien bien sûr un peu plus de bidouillage à faire que
 Mais la plupart du temps les réglages proposés par défaut suffisent à faire fonctionner la majorité des jeux.
 
 Le SD, fonctionne sous SteamOS qui est une distribution Linux. Si le jeu n'existe pas nativement sous Linux, il fonctionnera grâce à une couche logicielle de compatibilité appelée Proton.
-Cela fonctionne plutôt bien sur énormément de jeux, mais il est toujours possible que certains fonctionnent mal voire pas du tout.
+Cela fonctionne plutôt bien sur la grosse majorité des jeux, mais il est toujours possible que certains fonctionnent mal voire pas du tout.
 C'est particulièrement le cas sur les jeux en ligne multi-joueurs qui utilisent des logiciels anti-triche qui ne sont pas supportés sous Linux.
 
 Valve utilise un système de vérification qui classe les jeux disponibles sous Steam en 4 catégories :
@@ -34,18 +32,59 @@ Sur ce [url=https://store.steampowered.com/steamdeck/mygames]site web de Steam[/
 Il est cependant possible d'installer Windows dessus.
 
 [b]Tarifs et caractéristiques techniques[/b]
-[url=https://i.imgur.com/TqsuG3C.png][img]https://i.imgur.com/TqsuG3C.png[/img][/url]
+[url=https://i.imgur.com/uIInXO3.png][img]https://i.imgur.com/uIInXO3m.png[/img][/url]
 
-[url=https://www.steamdeck.com/fr/tech]Caractéristiques[/url]
+[url=https://www.steamdeck.com/fr/tech]Spécifications techniques[/url]
 
-[b]Que faire en premier lieu[/b]
-Installer quelques jeux et jouer avec !
+[b]Comment ça se passe concrètement ?[/b]
+Une fois que votre compte Steam est configuré, vous aurez accès à toute votre liste de jeux.
+Vous pouvez choisir lesquels vous souhaitez installer sur le Steam Deck.
+Ensuite, vous pouvez configurer avec quelle version de Proton vous souhaitez lancer votre jeu.
+En effet il est possible que certains jeux aient une meilleure compatibilité avec d'autres versions de Proton.
+Dans ce cas, il vaut mieux vérifier sur [url=https://www.protondb.com/]ProtonDB[/url] les réglages appropriés.
+
+Il est également possible de configurer des paramètres de performance pour chaque jeu.
+Ces paramètres seront sauvegardés dans le profil du jeu et seront appliqués à chaque fois que vous le lancerez.
+Si vous ne touchez à rien les paramètres par défaut s'appliqueront.
+Mais la plupart du temps, rassurez-vous, il n'y a strictement rien à faire :D
+
+Au lancement du jeu, ils vous sera proposé des layouts de commandes adaptés créés par la communauté ou par les éditeurs.
+La plupart du temps si le jeu est compatible avec une manette, il n'y aura aucun souci.
+Si c'est un pur jeu PC clavier/souris, il existera des layouts qui s'adapteront également.
+Vous pouvez ensuite configurer chaque bouton comme vous le souhaitez.
+Les possibilités sont infinies, avec des modes de répétition sur le boutons, des menus "on screen" configurables etc...
+[url=https://i.imgur.com/TrcuUEo.png][img]https://i.imgur.com/TrcuUEom.png[/img][/url]
+
+[b]Quelques jeux pour commencer[/b]
 Voici quelques recommendations pour prendre en main le SD:
 [*] [url=https://store.steampowered.com/app/1902490/Aperture_Desk_Job/]Aperture Desk Job[/url]
 [*] [url=https://store.steampowered.com/app/1794680/Vampire_Survivors/]Vampire Survivors[/url]
 
+[b]Mode Gaming[/b]
+C'est le mode par défaut du SD.
+Steam est lancé en mode big picture, et vous avez en main une vraie console de jeu.
+[url=https://i.imgur.com/sa42mZZ.jpg][img]https://i.imgur.com/sa42mZZm.jpg[/img][/url]
+Vous avez accès aux jeux récemment joués et la page d'accueil présente des recommendations, des mise à jours pour vos jeux etc...
+
+[u]Le bouton STEAM[/u]
+Un appui sur le bouton Steam fera apparaitre un menu vous permettant de naviguer dans d'autres sous-parties de Steam.
+En cours de jeu, cela fait également apparaitre un overlay Steam où vous pouvez accéder au élements spécifiques du jeu, comme les Achievements et des guides.
+
+[i]Jouez et utilisez d'autres applications simultanément[/i]
+Pendant que vous jouez, vous pouvez lancer et passer sur une autre application comme un navigateur, un chat, ou même un autre jeu.
+Pour lancer des application non-Steam en mode Gaming, vous devez tout d'abord les ajouter dans le mode Desktop:
+Faites un clic droit sur une application, et selectionnez Ajoutez à Steam
+[url=https://i.imgur.com/VJ7CFS3.png][img]https://i.imgur.com/VJ7CFS3m.png[/img][/url]
+
+Les applications ajoutées ainsi se trouveront dans votre librairie, sous la catégorie Non-Steam.
+Pour chacune, vous pouvez appliquer le layout de commandes que vous souhaitez tout comme un jeu.
+
+[i]Raccourcis globaux[i]
+En cours de jeux appuyez quelques secondes sur le bouton Steam ou le bouton d'accès rapide pour afficher un guide des raccourcis globaux.
+
+
 [b]Mode Desktop[/b]
-Le Steam Deck a un mode Desktop auquel vous pouvez accéder par le menu Power qui apparait quand vous appuyez sur le bouton Steam Deck (en bas à gauche), ou en maintenant le bouton Power appuyé.
+Le Steam Deck possède un mode Desktop auquel vous pouvez accéder par le menu Power qui apparait quand vous appuyez sur le bouton Steam Deck (en bas à gauche), ou en maintenant le bouton Power appuyé.
 De là, en sélectionnant "Switch to Desktop", l'environnement de bureau KDE Plasma va se charger.
 KDE Plasma est l'environnement de bureau que Valve a choisi pour le SD. Il est assez similaire à Windows sous certains aspects mais différents sur d'autres...
 
@@ -54,15 +93,3 @@ Le Steam Deck utilise des applications Flatpak.
 C'est une façon de packager et de distribuer des applications qui fonctionneront sous toutes les distributions Linux.
 Le SD embarque un "app store" appelé Discover, accessible en mode Desktop.
 Cette application peut télécharger et mettre à jour les applications qui sont disponibles sous [url=https://flathub.org/home]Flathub[/url].
-
-[b]Gestion des fichiers[/b]
-Comment upload des fichiers sur votre Steam Deck ?
-
-[*] Par SSH:
-Ouvrez l'applicationKonsole en mode Desktop et tapez les commandes suivantes:
-[cpp]passwd[/cpp]
-Ceci permet de définir un mot de passe pour l'utilisateur [i]deck[/i] si ce n'est déjà fait.
-
-[cpp]sudo systemctl enable --now sshd[/cpp]
-Cette commande va activer le serveur sshd à chaque démarrage du SD.
-Vous pouvez maintenant utiliser [url=https://filezilla-project.org/download.php]Filezilla ou tout autre client ssh de votre choix[/url]
