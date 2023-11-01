@@ -7,7 +7,7 @@ Les modifications sont ensuite appliquées au premier post après validation.[/q
 [quote]Disclaimer: Une grosse partie de ce post est issu de [url=https://www.reddit.com/r/SteamDeck/wiki/index/]reddit[/url][/quote]
 
 [b]Qu'est ce que le Steam Deck ?[/b]
-Le Steam Deck (abrégé SD par la suite) est un PC portable de gaming fabriqué par Valve avec le form factor d'une console portable. 
+Le Steam Deck (abrégé SD par la suite) est un PC portable de gaming fabriqué par Valve avec le form factor d'une console portable.
 C'est avant tout un PC, il peut donc faire quasiment tout ce qu'un PC portable peut faire.
 SteamOS, qui est l'OS équipant le SD, facilite la vie des gamers en apportant ce côté user friendly propre aux consoles de jeu.
 
@@ -30,10 +30,12 @@ Sur ce [url=https://store.steampowered.com/steamdeck/mygames]site web de Steam[/
 
 Il est cependant possible d'installer Windows dessus.
 
+
 [b]Tarifs et caractéristiques techniques[/b]
 [url=https://i.imgur.com/Naa0oFu.png][img]https://i.imgur.com/Naa0oFuh.png[/img][/url]
 
 [url=https://www.steamdeck.com/fr/tech]Spécifications techniques[/url]
+
 
 [b]Choix d'un Steam Deck[/b]
 Le choix dépend évidemment de votre budget et de la capacité de stockage souhaitée.
@@ -52,7 +54,14 @@ Pour le choix du SSD, il vous faudra un M.2 2230.
 Diverses promos sur aliexpress permettent d'obtenir un SSD Corsair d'1To à 55€ environ.
 
 [u]Utilisation d'une carte SD[/u]
-TBD
+Il est possible d'utiliser une carte SD pour étendre le stockage de votre SD.
+Les temps de chargements seront plus longs, mais il y a assez peu d'inconvénients à ce mode de stockage, sauf peut-être des temps de chargement plus long.
+Chaque jeu peut être installé sur le SSD ou la carte SD.
+Les jeux déjà installés peuvent être déplacés individuellement sur chaque emplacement de stockage.
+Il est également possible de définir la carte SD comme emplacement de stockage par défaut.
+
+Actuellement une carte de 512Go coute environ 55€.
+
 
 [b]Comment ça se passe concrètement pour jouer ?[/b]
 Une fois que votre compte Steam est configuré, vous aurez accès à toute votre liste de jeux.
@@ -73,10 +82,12 @@ Vous pouvez ensuite configurer chaque bouton comme vous le souhaitez.
 Les possibilités sont infinies, avec des modes de répétition sur le boutons, des menus "on screen" configurables etc...
 [url=https://i.imgur.com/ZAaC5fm.png][img]https://i.imgur.com/ZAaC5fmh.png[/img][/url]
 
+
 [b]Quelques jeux pour commencer[/b]
 Voici quelques recommendations pour prendre en main le SD:
 [*] [url=https://store.steampowered.com/app/1902490/Aperture_Desk_Job/]Aperture Desk Job[/url]
 [*] [url=https://store.steampowered.com/app/1794680/Vampire_Survivors/]Vampire Survivors[/url]
+
 
 [b]Mode Gaming[/b]
 C'est le mode par défaut du SD.
@@ -168,8 +179,12 @@ Le Steam Deck possède un mode Desktop auquel vous pouvez accéder par le menu P
 De là, en sélectionnant "Switch to Desktop", l'environnement de bureau KDE Plasma va se charger.
 KDE Plasma est l'environnement de bureau que Valve a choisi pour le SD. Il est assez similaire à Windows sous certains aspects mais différents sur d'autres...
 
+
 [b]Discover store[/b]
 Le Steam Deck utilise des applications Flatpak.
 C'est une façon de packager et de distribuer des applications qui fonctionneront sous toutes les distributions Linux.
 Le SD embarque un "app store" appelé Discover, accessible en mode Desktop.
 Cette application peut télécharger et mettre à jour les applications qui sont disponibles sous [url=https://flathub.org/home]Flathub[/url].
+
+
+[b]Accessoires[/b]
