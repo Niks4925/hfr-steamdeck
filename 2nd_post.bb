@@ -1,3 +1,12 @@
+[b]Je peux jouer à quoi ? [/b]
+
+Voici quelques recommendations pour prendre en main le SD:
+[*] [url=https://store.steampowered.com/app/1902490/Aperture_Desk_Job/]Aperture Desk Job[/url]
+[*] [url=https://store.steampowered.com/app/1794680/Vampire_Survivors/]Vampire Survivors[/url]
+
+[img]https://rehost.diberie.com/Picture/Get/f/221204[/img]
+
+
 [b]Les plugins Decky Loader[/b]
 Changer complètement l'apparence, ajouter de nouvelles fonctionnalités comme un VPN, modifier les graphismes de n'importe quel jeu, voire même ajouter des contrôles plus poussés de l'APU ?
 C'est possible avec le gestionnaire de plugins [url=https://github.com/SteamDeckHomebrew/decky-loader]Decky Loader[/url].
@@ -60,6 +69,10 @@ Vous devriez voir l'icône de Decky Loader.
 
 [b]Emulation[/b]
 [i]En construction[/i]
+Voir https://steamdeckhq.com/tips-and-guides/setting-up-emulation-with-emudeck/
+(A traduire)
 
 [b]Installation de Windows[/b]
 [i]En construction[/i]
+Voir https://steamdeckhq.com/tips-and-guides/install-windows-10-11-on-steam-deck/
+(A traduire)

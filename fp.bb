@@ -1,10 +1,9 @@
 [b]Bienvenue sur le topic du Steam Deck[/b]
 [url=https://i.imgur.com/gyAVmVr.png][img]https://i.imgur.com/gyAVmVr.png[/img][/url]
-[quote]Premier post en construction...
-Ce premier post est collaboratif et est géré par ce [url=https://github.com/Niks4925/hfr-steamdeck]dépôt github[/url]
+[quote]Ce premier post est collaboratif et est géré par ce [url=https://github.com/Niks4925/hfr-steamdeck]dépôt github[/url]
 Pour apporter des modifications il suffit de posséder un compte github et d'éditer le fichier [url=https://github.com/Niks4925/hfr-steamdeck/blob/main/fp.bb]fp.bb[/url]
-Les modifications sont ensuite appliquées au premier post après validation.[/quote]
-[quote]Disclaimer: Une grosse partie de ce post est issu de [url=https://www.reddit.com/r/SteamDeck/wiki/index/]reddit[/url][/quote]
+Les modifications sont ensuite appliquées au premier post après validation.
+Merci à Xat' pour cette feature[/quote]
 
 [b]Qu'est ce que le Steam Deck ?[/b]
 Le Steam Deck (abrégé SD par la suite) est un PC portable de gaming fabriqué par Valve avec le form factor d'une console portable.
@@ -19,10 +18,7 @@ Cela fonctionne plutôt bien sur la grosse majorité des jeux, mais il est toujo
 C'est particulièrement le cas sur les jeux en ligne multi-joueurs qui utilisent des logiciels anti-triche qui ne sont pas supportés sous Linux.
 
 Valve utilise un système de vérification qui classe les jeux disponibles sous Steam en 4 catégories :
-[*] Verified
-[*] Playable
-[*] Unsupported
-[*] Untested
+[img]https://i.imgur.com/UJwpfqDt.png[/img]
 
 Il y aura assez peu de problèmes avec les jeux classés comme [i]Verified[/i] et [i]Playable[/i], mais même les jeux qui sont listés comme [i]Unsupported[/i] peuvent parfois être joués sans problèmes.
 Certains jeux nécessitent quelques ajustements dans les paramètres pour fonctionner, les informations sur les réglages appropriés sont listés sur le site [url=https://www.protondb.com/]ProtonDB[/url].
@@ -32,21 +28,17 @@ Il est cependant possible d'installer Windows dessus.
 
 
 [b]Tarifs et caractéristiques techniques[/b]
-[url=https://i.imgur.com/Naa0oFu.png][img]https://i.imgur.com/Naa0oFuh.png[/img][/url]
+[:gnel42] Un "nouveau" Steam Deck a été annoncé par Valve le 10/11/23, il sera disponible à partir du 16/11/23.[:gnel42]
+https://youtu.be/_vTsZMvjJ-A
 
-[url=https://www.steamdeck.com/fr/tech]Spécifications techniques[/url]
 
+Tarifs Steam Deck LCD (jusqu'à épuisement des stocks):
+[url=https://i.imgur.com/jLSeAEk.png][img]https://i.imgur.com/jLSeAEkh.png[/img][/url]
+[url=https://www.steamdeck.com/fr/tech/deck]Spécifications techniques du Steam Deck LCD[/url]
 
-[b]Choix d'un Steam Deck[/b]
-Le choix dépend évidemment de votre budget et de la capacité de stockage souhaitée.
-Le modèle 512Go possède un écran laminé et une housse de transport mieux foutue.
-
-Le Steam Deck de 64Go est vraiment limite pour certains jeux.
-Par exemple la trilogie Mass Effect fait 110Go et n'est donc pas jouable sur ce Steam Deck nativement.
-Cependant, il est possible de remplacer le SSD afin d'augmenter la capacité de votre SD.
-Il est également possible de lui ajouter une carte SD de grande capacité si vous ne nous sentez pas de le démonter.
-
-La meilleur plan actuellement, au vu des prix des SSD 2230, et si vous avez l'âme d'un bricoleur est d'acheter un Steam Deck 64Go pour lui remplacer son SSD.
+Tarifs "nouveau" Steam Deck:
+[url=https://i.imgur.com/NZxEkEm.png][img]https://i.imgur.com/NZxEkEmh.png[/img][/url]
+[url=https://www.steamdeck.com/fr/tech]Spécifications techniques du Steam Deck OLED[/url]
 
 [u]Remplacement du SSD[/u]
 Je vous renvoie directement au tuto d'[url=https://www.ifixit.com/Guide/Steam+Deck+SSD+Replacement/148989]ifixit[/url]
@@ -83,37 +75,19 @@ Les possibilités sont infinies, avec des modes de répétition sur le boutons, 
 [url=https://i.imgur.com/ZAaC5fm.png][img]https://i.imgur.com/ZAaC5fmh.png[/img][/url]
 
 
-[b]Quelques jeux pour commencer[/b]
-Voici quelques recommendations pour prendre en main le SD:
-[*] [url=https://store.steampowered.com/app/1902490/Aperture_Desk_Job/]Aperture Desk Job[/url]
-[*] [url=https://store.steampowered.com/app/1794680/Vampire_Survivors/]Vampire Survivors[/url]
-
-
 [b]Mode Gaming[/b]
 C'est le mode par défaut du SD.
 Steam est lancé en mode big picture, et vous avez en main une vraie console de jeu.
 [url=https://i.imgur.com/m8fIUXR.jpg][img]https://i.imgur.com/m8fIUXRh.jpg[/img][/url]
 Vous avez accès aux jeux récemment joués et la page d'accueil présente des recommendations, des mise à jours pour vos jeux etc...
 
+
 [u]Le bouton STEAM[/u]
 Un appui sur le bouton Steam fera apparaitre un menu vous permettant de naviguer dans d'autres sous-parties de Steam.
+[url=https://i.imgur.com/3VurT62.png][img]https://i.imgur.com/3VurT62h.png[/img][/url]
+
 En cours de jeu, cela fait également apparaitre un overlay Steam où vous pouvez accéder au élements spécifiques du jeu, comme les Achievements et des guides.
 
-[i]Jouez et utilisez d'autres applications simultanément[/i]
-Pendant que vous jouez, vous pouvez lancer et passer sur une autre application comme un navigateur, un chat, ou même un autre jeu.
-Pour lancer des application non-Steam en mode Gaming, vous devez tout d'abord les ajouter dans le mode Desktop:
-Faites un clic droit sur une application, et sélectionnez Ajoutez à Steam
-[url=https://i.imgur.com/oAZ0Qh6.png][img]https://i.imgur.com/oAZ0Qh6h.png[/img][/url]
-
-Les applications ajoutées ainsi se trouveront dans votre librairie, sous la catégorie Non-Steam.
-Pour chacune, vous pouvez appliquer le layout de commandes que vous souhaitez tout comme un jeu.
-
-[i]Utiliser le clavier[/i]
-Avec le clavier virtuel vous pouvez écrire en utilisant l'écran tactile, la croix directionnelle, les joysticks ou les trackpads.
-Pour les jeux qui nécessitent d'entrer du texte mais qui n'ont pas de clavier inclus au jeu, vous pouvez ouvrir le clavier en utilisant les boutons STEAM + X
-
-[i]Raccourcis globaux[/i]
-En cours de jeux appuyez quelques secondes sur le bouton Steam ou le bouton d'accès rapide pour afficher un guide des raccourcis globaux.
 
 [u]Menu d'accès rapide[/u]
 Ce menu s'ouvre lorsque vous appuyez sur le bouton avec les 3 points.
@@ -187,4 +161,32 @@ Le SD embarque un "app store" appelé Discover, accessible en mode Desktop.
 Cette application peut télécharger et mettre à jour les applications qui sont disponibles sous [url=https://flathub.org/home]Flathub[/url].
 
 
+[b]Astuces diverses[/b]
+[i]Jouez et utilisez d'autres applications simultanément[/i]
+Pendant que vous jouez, vous pouvez lancer et passer sur une autre application comme un navigateur, un chat, ou même un autre jeu.
+Pour lancer des application non-Steam en mode Gaming, vous devez tout d'abord les ajouter dans le mode Desktop:
+Faites un clic droit sur une application, et sélectionnez Ajoutez à Steam
+[url=https://i.imgur.com/oAZ0Qh6.png][img]https://i.imgur.com/oAZ0Qh6h.png[/img][/url]
+
+Les applications ajoutées ainsi se trouveront dans votre librairie, sous la catégorie Non-Steam.
+Pour chacune, vous pouvez appliquer le layout de commandes que vous souhaitez tout comme un jeu.
+
+[i]Utiliser le clavier[/i]
+Avec le clavier virtuel vous pouvez écrire en utilisant l'écran tactile, la croix directionnelle, les joysticks ou les trackpads.
+Pour les jeux qui nécessitent d'entrer du texte mais qui n'ont pas de clavier inclus au jeu, vous pouvez ouvrir le clavier en utilisant les boutons STEAM + X
+
+[i]Raccourcis globaux[/i]
+En cours de jeu appuyez quelques secondes sur le bouton Steam ou le bouton d'accès rapide pour afficher un guide des raccourcis globaux.
+
+
 [b]Accessoires[/b]
+Il y a bien sûr le [url=https://www.steamdeck.com/fr/dock]dock officiel[/url]
+[url=https://i.imgur.com/uky2xcI.png][img]https://i.imgur.com/uky2xcIh.png[/img][/url]
+Vendu 89€.
+
+Il est possible d'acheter d'autres docks compatibles:
+https://www.amazon.fr/JSAUX-daccueil-compatible-Ethernet-Deck-HB0602/dp/B0B8NJ2ZPS
+https://www.amazon.fr/daccueil-JSAUX-Compatible-Ethernet-Deck-HB0603/dp/B0B8NFC7RF
+
+Films de protection:
+[i]En construction[/i]
