@@ -188,5 +188,11 @@ Il est possible d'acheter d'autres docks compatibles:
 https://www.amazon.fr/JSAUX-daccueil-compatible-Ethernet-Deck-HB0602/dp/B0B8NJ2ZPS
 https://www.amazon.fr/daccueil-JSAUX-Compatible-Ethernet-Deck-HB0603/dp/B0B8NFC7RF
 
+Housses de protection:
+[url=https://i.imgur.com/1eY3X36.png][img]https://i.imgur.com/1eY3X36.png[/img][/url]
+https://www.tomtoc.com/products/fancycase-a05-steam-deck-case
+Celle-ci est plus petite que le mastodonte original :o
+
 Films de protection:
-[i]En construction[/i]
+Protection en verre mat: https://www.amazon.fr/gp/product/B09X82S4XL
+
