@@ -193,6 +193,8 @@ Housses de protection:
 https://www.tomtoc.com/products/fancycase-a05-steam-deck-case
 Celle-ci est plus petite que le mastodonte original :o
 
-Films de protection:
-Protection en verre mat: https://www.amazon.fr/gp/product/B09X82S4XL
+Protections anti-reflets:
+Protection en verre matte MagGlass 25,98€ : https://amzn.eu/d/7Jo0yF9
+Protection en verre matte JSAUX (avec gabarit d'install + lot de 2) 13,99€ : https://amzn.eu/d/4FKYf7j
+Protection film matte Brotect (lot de 2) 7,49€ : https://amzn.eu/d/dNPqC08
 
