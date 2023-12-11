@@ -61,11 +61,34 @@ Vous devriez voir l'icône de Decky Loader.
 
 [u]Plugins utiles[/u]
 [*] CSS Loader - Modifier les éléments de l'interface utilisateur du mode jeu.
-[*] VibrantDeck - Modifie la saturation de l'écran pour donner l'impression d'être plus coloré ou pour faire ressortir les couleurs.
+[*] [strike]VibrantDeck - Modifie la saturation de l'écran pour donner l'impression d'être plus coloré ou pour faire ressortir les couleurs.[/strike] [i]obsolète depuis SteamOS 3.5[/i]
 [*] SteamGridDB - Changez facilement l'illustration des jeux de votre bibliothèque.
 [*] DeckSettings - Permet de consulter facilement les paramètres recommandés pour les performances des jeux.
 [*] Decky Recorder - Enregistrez facilement de petits clips de jeux et sauvegardez-les directement sur votre Deck.
 
+[b]Tweaks[/b] :non:[i]Partie pour ceux qui veulent bidouiller[/i]:non:
+
+En éteignant la console complètement, vous pouvez avoir accès à 3 menus spécifiques.
+Maintenir [b]Volume -[/b] et [b]bouton Power[/b] = Boot Manager
+Maintenir [b]Volume +[/b] et [b]bouton Power[/b] = BIOS
+Maintenir [b]...[/b] et [b]bouton Power[/b] = Recovery Manager
+
+[u]Boot Manager[/u]
+Ce menu permet de choisir sur quelle partition booter. 
+A utiliser en cas d'installation de Windows et/ou de votre OS sur uSD ou SSD externe.
+Vous pouvez accéder à ce menu dans le BIOS aussi.
+
+[u]BIOS[/u]
+Comme tout ordinateur, on peut accéder au BIOS du Steamdeck pour changer quelques paramètres avant le lancement de l'OS.
+[*] UMA Frame buffer size [i](Setup Utility > Advanced)[/i]
+Il s'agit de la quantité de mémoire vive partagée que vous allez attribué au GPU. 
+En augmetant ce paramètre, vous avez plus de mémoire pour charger des textures, mais moins de mémoire vive utilisable.
+Par défaut, elle est à 1gb, je conseille 4gb. 
+[*] Battery stockage mode [i](Setup Utility > Power)[/i]
+Ce mode permet de mettre la batterie en mode stockage, comme quand vous avez reçu la console. Elle coupe l'accès à la batterie jusqu'au branchement du chargeur secteur.
+Parfait quand vous savez que vous n'allez pas y jouer pendant un moment ou si vous démontez la console et que vous ne voulez pas débrancher la batterie.
+
+[i]En construction[/i]
 
 [b]Emulation[/b]
 [i]En construction[/i]
