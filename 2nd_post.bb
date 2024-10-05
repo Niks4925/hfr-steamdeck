@@ -4,7 +4,8 @@ Voici quelques recommendations pour prendre en main le SD:
 [*] [url=https://store.steampowered.com/app/1902490/Aperture_Desk_Job/]Aperture Desk Job[/url]
 [*] [url=https://store.steampowered.com/app/1794680/Vampire_Survivors/]Vampire Survivors[/url]
 
-[img]https://rehost.diberie.com/Picture/Get/f/221204[/img]
+La liste des jeux les plus joués sur SD en ce moment:
+https://store.steampowered.com/sale/decktop100?l=french
 
 
 [b]Les plugins Decky Loader[/b]
@@ -82,7 +83,7 @@ Vous pouvez accéder à ce menu dans le BIOS aussi.
 Comme tout ordinateur, on peut accéder au BIOS du Steamdeck pour changer quelques paramètres avant le lancement de l'OS.
 [*] UMA Frame buffer size [i](Setup Utility > Advanced)[/i]
 Il s'agit de la quantité de mémoire vive partagée que vous allez attribué au GPU. 
-En augmetant ce paramètre, vous avez plus de mémoire pour charger des textures, mais moins de mémoire vive utilisable.
+En augmentant ce paramètre, vous avez plus de mémoire pour charger des textures, mais moins de mémoire vive utilisable.
 Par défaut, elle est à 1gb, je conseille 4gb. 
 [*] Battery stockage mode [i](Setup Utility > Power)[/i]
 Ce mode permet de mettre la batterie en mode stockage, comme quand vous avez reçu la console. Elle coupe l'accès à la batterie jusqu'au branchement du chargeur secteur.
