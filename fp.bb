@@ -27,6 +27,10 @@ Sur ce [url=https://store.steampowered.com/steamdeck/mygames]site web de Steam[/
 Il est cependant possible d'installer Windows dessus.
 
 
+[b]Tuto de la communauté Steam[/b]
+Ici un tuto très bien fait de la communauté Steam (en anglais): https://steamcommunity.com/sharedfiles/filedetails/?id=2804823261
+
+
 [b]Tarifs et caractéristiques techniques[/b]
 [:gnel42] Un "nouveau" Steam Deck a été annoncé par Valve le 10/11/23, il sera disponible à partir du 16/11/23.[:gnel42]
 https://youtu.be/_vTsZMvjJ-A
