@@ -4,15 +4,15 @@ Voici quelques recommendations pour prendre en main le SD:
 [*] [url=https://store.steampowered.com/app/1902490/Aperture_Desk_Job/]Aperture Desk Job[/url]
 [*] [url=https://store.steampowered.com/app/1794680/Vampire_Survivors/]Vampire Survivors[/url]
 
-La liste des jeux les plus joués sur SD en ce moment:
+La liste des 100jeux les plus joués sur SD:
 https://store.steampowered.com/sale/decktop100?l=french
+Globalement vous pouvez être sûr que ceux là fonctionnent correctement.
 
 
 [b]Les plugins Decky Loader[/b]
 Changer complètement l'apparence, ajouter de nouvelles fonctionnalités comme un VPN, modifier les graphismes de n'importe quel jeu, voire même ajouter des contrôles plus poussés de l'APU ?
 C'est possible avec le gestionnaire de plugins [url=https://github.com/SteamDeckHomebrew/decky-loader]Decky Loader[/url].
 
-Le gestionnaire de plugins Decky Loader est un lanceur de plugins homebrew qui peut être téléchargé et ajouté à votre appareil.
 Il fonctionne en injectant des composants React dans l'interface utilisateur de Steam et en exécutant des scripts en arrière-plan, de sorte qu'aucun fichier n'est modifié, tout en étant conçu pour être léger et ne pas causer de lag.
 L'utilisation de ce plugin de lancement vous offre de nombreuses nouvelles options pour affiner votre expérience en mode jeu et sur le Steam Deck en général.
 
@@ -20,23 +20,11 @@ L'utilisation de ce plugin de lancement vous offre de nombreuses nouvelles optio
 Le processus complet de téléchargement et d'installation de Decky Loader est en fait assez simple et direct, mais il nécessite quelques étapes pour pouvoir l'installer correctement.
 La première étape consiste à créer un mot de passe sudo si cela n'a pas encore été fait.
 
-[u]Définition d'un mot de passe sudo[/u]
-Si vous ne voulez pas créer un mot de passe sudo, Decky peut le faire automatiquement et créer un mot de passe temporaire.
-Une invite apparaîtra automatiquement si vous n'avez pas encore configuré de mot de passe lorsque vous ouvrirez l'installateur Decky.
-
-Étape 1:
-Ouvrez l'application Konsole. Vous pouvez le rechercher dans la barre de recherche du mode Bureau ou dans l'onglet Système des applications.
-
-Étape 2:
-Tapez "passwd" dans la console et créez un mot de passe.
-Lorsque vous tapez, il est normal de ne pas voir le mot de passe écrit devant vous.
-La console enregistre ce que vous tapez, il suffit donc d'appuyer sur Entrée pour confirmer.
-
 [u]Téléchargement de Decky Loader[/u]
-Étape 3:
+Étape 1:
 Aller sur la page Github de [url=https://github.com/SteamDeckHomebrew/decky-loader]Decky Loader[/url] et cliquer sur le bouton "Download".
 
-Étape 4:
+Étape 2:
 Une fois le fichier téléchargé, ouvrez le dossier dans lequel il a été téléchargé.
 Il faut changer le nom du fichier téléchargé pour s'assurer qu'il peut être exécuté.
 Pour ce faire, nous allons changer le nom de :
@@ -46,11 +34,11 @@ en :
 Il est possible qu'un navigateur différent télécharge sans le .download à la fin, alors vérifiez à nouveau le nom pour vous en assurer.
 
 [u]Installation de Decky Loader[/u]
-Étape 5:
+Étape 3:
 Double-cliquer sur le fichier Decky Installer que vous venez de télécharger/renommer.
 Un message devrait apparaître vous demandant si vous voulez continuer, ce que vous ferez en cliquant sur "Continue".
 
-Étape 6:
+Étape 4:
 Une nouvelle fenêtre Konsole s'ouvre automatiquement. Tout d'abord, elle demandera d'entrer votre mot de passe sudo
 Ensuite, elle vous demandera si vous voulez la version "release" ou "pre-release" du gestionnaire de plugins.
 Je recommande la version "release" car c'est la version stable.
