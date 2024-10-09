@@ -4,7 +4,7 @@ Voici quelques recommendations pour prendre en main le SD:
 [*] [url=https://store.steampowered.com/app/1902490/Aperture_Desk_Job/]Aperture Desk Job[/url]
 [*] [url=https://store.steampowered.com/app/1794680/Vampire_Survivors/]Vampire Survivors[/url]
 
-La liste des 100jeux les plus joués sur SD:
+La liste des 100 jeux les plus joués sur SD:
 https://store.steampowered.com/sale/decktop100?l=french
 Globalement vous pouvez être sûr que ceux là fonctionnent correctement.
 
@@ -15,10 +15,6 @@ C'est possible avec le gestionnaire de plugins [url=https://github.com/SteamDeck
 
 Il fonctionne en injectant des composants React dans l'interface utilisateur de Steam et en exécutant des scripts en arrière-plan, de sorte qu'aucun fichier n'est modifié, tout en étant conçu pour être léger et ne pas causer de lag.
 L'utilisation de ce plugin de lancement vous offre de nombreuses nouvelles options pour affiner votre expérience en mode jeu et sur le Steam Deck en général.
-
-[u]Téléchargement et installation de Decky Loader[/u]
-Le processus complet de téléchargement et d'installation de Decky Loader est en fait assez simple et direct, mais il nécessite quelques étapes pour pouvoir l'installer correctement.
-La première étape consiste à créer un mot de passe sudo si cela n'a pas encore été fait.
 
 [u]Téléchargement de Decky Loader[/u]
 Étape 1:
