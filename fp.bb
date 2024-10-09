@@ -8,14 +8,14 @@ Merci à Xat' pour cette feature[/quote]
 [b]Qu'est ce que le Steam Deck ?[/b]
 Le Steam Deck (abrégé SD par la suite) est un PC portable de gaming fabriqué par Valve avec le form factor d'une console portable.
 C'est avant tout un PC, il peut donc faire quasiment tout ce qu'un PC portable peut faire.
-SteamOS, qui est l'OS équipant le SD, facilite la vie des gamers en apportant ce côté user friendly propre aux consoles de jeu.
+SteamOS, qui est l'OS équipant le SD, facilite la vie des gamers en apportant le côté user friendly propre aux consoles de jeu.
 
 Comme c'est un PC, il y a bien bien sûr un peu plus de bidouillage à faire que sur une console pour faire tourner les jeux dans les meilleures conditions.
 Mais la plupart du temps les réglages proposés par défaut suffisent à faire fonctionner la majorité des jeux.
 
 Le SD, fonctionne sous SteamOS qui est une distribution Linux. Si le jeu n'existe pas nativement sous Linux, il fonctionnera grâce à une couche logicielle de compatibilité appelée Proton.
-Cela fonctionne plutôt bien sur la grosse majorité des jeux, mais il est toujours possible que certains fonctionnent mal voire pas du tout.
-C'est particulièrement le cas sur les jeux en ligne multi-joueurs qui utilisent des logiciels anti-triche qui ne sont pas supportés sous Linux.
+Cela fonctionne parfaitement bien sur la grosse majorité des jeux, mais il est toujours possible que certains fonctionnent mal voire pas du tout.
+C'est particulièrement le cas sur les jeux en ligne multi-joueurs qui utilisent des logiciels anti-triche qui ne sont pas supportés sous Linux (ex: le online de GTA5).
 
 Valve utilise un système de vérification qui classe les jeux disponibles sous Steam en 4 catégories :
 [img]https://i.imgur.com/UJwpfqDt.png[/img]
@@ -23,8 +23,6 @@ Valve utilise un système de vérification qui classe les jeux disponibles sous 
 Il y aura assez peu de problèmes avec les jeux classés comme [i]Verified[/i] et [i]Playable[/i], mais même les jeux qui sont listés comme [i]Unsupported[/i] peuvent parfois être joués sans problèmes.
 Certains jeux nécessitent quelques ajustements dans les paramètres pour fonctionner, les informations sur les réglages appropriés sont listés sur le site [url=https://www.protondb.com/]ProtonDB[/url].
 Sur ce [url=https://store.steampowered.com/steamdeck/mygames]site web de Steam[/url], vous pouvez vérifier quels jeux de votre bibliothèque Steam sont jouables ou non supportés.
-
-Il est cependant possible d'installer Windows dessus.
 
 
 [b]Tuto de la communauté Steam[/b]
@@ -35,7 +33,6 @@ Ici un tuto très bien fait de la communauté Steam (en anglais): https://steamc
 [:gnel42] Un "nouveau" Steam Deck a été annoncé par Valve le 10/11/23, il sera disponible à partir du 16/11/23.[:gnel42]
 https://youtu.be/_vTsZMvjJ-A
 
-
 Tarifs Steam Deck LCD (jusqu'à épuisement des stocks):
 [url=https://i.imgur.com/jLSeAEk.png][img]https://i.imgur.com/jLSeAEkh.png[/img][/url]
 [url=https://www.steamdeck.com/fr/tech/deck]Spécifications techniques du Steam Deck LCD[/url]
@@ -43,6 +40,7 @@ Tarifs Steam Deck LCD (jusqu'à épuisement des stocks):
 Tarifs "nouveau" Steam Deck:
 [url=https://i.imgur.com/NZxEkEm.png][img]https://i.imgur.com/NZxEkEmh.png[/img][/url]
 [url=https://www.steamdeck.com/fr/tech]Spécifications techniques du Steam Deck OLED[/url]
+
 
 [u]Remplacement du SSD[/u]
 Je vous renvoie directement au tuto d'[url=https://www.ifixit.com/Guide/Steam+Deck+SSD+Replacement/148989]ifixit[/url]
@@ -62,16 +60,14 @@ Actuellement une carte de 512Go coute environ 55€.
 [b]Comment ça se passe concrètement pour jouer ?[/b]
 Une fois que votre compte Steam est configuré, vous aurez accès à toute votre liste de jeux.
 Vous pouvez choisir lesquels vous souhaitez installer sur le Steam Deck.
-Ensuite, vous pouvez configurer avec quelle version de Proton vous souhaitez lancer votre jeu.
-En effet il est possible que certains jeux aient une meilleure compatibilité avec d'autres versions de Proton.
-Dans ce cas, il vaut mieux vérifier sur [url=https://www.protondb.com/]ProtonDB[/url] les réglages appropriés.
 
-Il est également possible de configurer des paramètres de performance pour chaque jeu.
+Après avoir lancé votre jeu, il est recommandé de configurer les paramètres de performance.
 Ces paramètres seront sauvegardés dans le profil du jeu et seront appliqués à chaque fois que vous le lancerez.
 Si vous ne touchez à rien les paramètres par défaut s'appliqueront.
+Mieux vaut vérifier sur [url=https://www.protondb.com/]ProtonDB[/url] les réglages recommandés, ne serait-ce que pour économiser la batterie.
 Mais la plupart du temps, rassurez-vous, il n'y a strictement rien à faire :D
 
-Au lancement du jeu, ils vous sera proposé des layouts de commandes adaptés créés par la communauté ou par les éditeurs.
+Au lancement du jeu, ils vous sera proposé des layouts de commandes adaptés, créés par la communauté ou par les éditeurs.
 La plupart du temps si le jeu est compatible avec une manette, il n'y aura aucun souci.
 Si c'est un pur jeu PC clavier/souris, il existera des layouts qui s'adapteront également.
 Vous pouvez ensuite configurer chaque bouton comme vous le souhaitez.
@@ -83,19 +79,19 @@ Les possibilités sont infinies, avec des modes de répétition sur le boutons, 
 C'est le mode par défaut du SD.
 Steam est lancé en mode big picture, et vous avez en main une vraie console de jeu.
 [url=https://i.imgur.com/m8fIUXR.jpg][img]https://i.imgur.com/m8fIUXRh.jpg[/img][/url]
-Vous avez accès aux jeux récemment joués et la page d'accueil présente des recommendations, des mise à jours pour vos jeux etc...
+Vous avez accès à vos jeux récemment joués et la page d'accueil présente des recommendations, des mise à jours pour vos jeux etc...
 
 
-[u]Le bouton STEAM[/u]
-Un appui sur le bouton Steam fera apparaitre un menu vous permettant de naviguer dans d'autres sous-parties de Steam.
+[u]Le bouton STEAM [:garath_:4] [/u]
+Un appui sur [:garath_:4] fera apparaitre un menu vous permettant de naviguer dans d'autres sous-parties de Steam.
 [url=https://i.imgur.com/3VurT62.png][img]https://i.imgur.com/3VurT62h.png[/img][/url]
 
-En cours de jeu, cela fait également apparaitre un overlay Steam où vous pouvez accéder au élements spécifiques du jeu, comme les Achievements et des guides.
+En cours de jeu, cela fait également apparaitre un overlay Steam où vous pouvez accéder au élements spécifiques du jeu, comme les succès et des guides.
 
 
 [u]Menu d'accès rapide[/u]
 Ce menu s'ouvre lorsque vous appuyez sur le bouton avec les 3 points.
-C'est un raccourci pour les notifications, les amis Steam, les réglages rapides, la performance, la musique et l'aide.
+C'est un raccourci pour les notifications, les contacts Steam, les réglages rapides, la performance, la musique et l'aide.
 
 [i]Les réglages rapides[/i]
 [url=https://i.imgur.com/1niCcq0.png][img]https://i.imgur.com/1niCcq0h.png[/img][/url]
@@ -107,24 +103,18 @@ Ils sont facilement accessibles dans le menu d'accès rapide et peuvent être sa
 [url=https://i.imgur.com/DzyphSu.png][img]https://i.imgur.com/DzyphSuh.png[/img][/url]
 [url=https://i.imgur.com/QpDyTBV.png][img]https://i.imgur.com/QpDyTBVh.png[/img][/url]
 
-[*]Fréquence de rafraichissement max
-Il s'agit d'une limite interne qui empêche le taux de rafraîchissement d'un jeu de dépasser un certain seuil.
-Les valeurs de la barre sont directement liées au taux de rafraîchissement : 1/4 du taux de rafraîchissement, 1/2 du taux de rafraîchissement, même valeur que le taux de rafraîchissement et aucune limite. Réduire le nombre d'images produites permet d'économiser la batterie de manière significative et de réduire la température.
+[*]Limite de la fréquence d'image
+C'est la limite de fréquence à laquelle l'écran de votre Steam Deck se rafraîchit
 
-[*]Fréquence de rafraichissement
-C'est la limite à laquelle l'écran de votre Steam Deck se rafraîchit. Sur la Steam Deck, cette valeur est comprise entre 40 et 60.
-Changer cette valeur affectera aussi directement la limite du framerate, ce qui peut économiser la vie de la batterie et réduire la température.
-Il est toujours préférable d'avoir un framerate et un taux de rafraîchissement qui correspondent à la même valeur plutôt que de passer à une valeur de 1/2 ou 1/4,
-car la synchronisation sera parfaite et la fluidité sera nettement meilleure. L'utilisation de ces valeurs peut également aider à stabiliser un framerate erratique.
-Par exemple, si vous avez un plafond de 60 ou pas de plafond du tout et que le framerate oscille autour de 42-47 FPS, imposer un taux de rafraîchissement et un plafond de 40 stabilisera le framerate du jeu, économisera de la batterie et sera plus fluide dans l'ensemble.
+[*]Désactiver la limite de fréquence d'images
 
-[*]Permettre le Tearing
-Il s'agit d'une option relativement nouvelle qui désactive tout cap ou Vsync pour les jeux via SteamOS. Cette option n'est utile que lors de la sortie vers un moniteur externe ou une télévision qui a un taux de rafraîchissement différent. Activer cette option désactivera tout Vsync imposé par SteamOS et permettra moins de latence avec du tearing à l'écran.
+[*]Désactiver la synchronisation verticale
+Il s'agit d'une option qui désactive tout cap ou Vsync pour les jeux via SteamOS. Cette option n'est utile que lors de la sortie vers un moniteur externe ou une télévision qui a un taux de rafraîchissement différent. Activer cette option désactivera tout Vsync imposé par SteamOS et permettra moins de latence avec du tearing à l'écran.
 
-[*]Half rate shading
+[*]Shading à fréquence variable
 Cette option permet d'appliquer un ombrage à taux variable conçu pour économiser de l'énergie. Elle réduit de moitié la qualité de l'ombrage dans le jeu.
 
-[*]Limite de puissance thermique (TDP)
+[*]Limite de l'enveloppe thermique (TDP)
 Il s'agit de la limite de puissance délivrée à votre GPU pour faire tourner les jeux. Il s'agit d'un élément clé pour économiser la durée de vie de la batterie.
 La plage de limitation va de 3W à 15W.
 Des vieux jeux peu gourmands en ressources s'accommoderont bien d'une limite à 3W, tandis que les AAA récents nécessiteront de pousser le GPU au max.
@@ -134,8 +124,8 @@ Cette option vous permet de régler manuellement la fréquence de l'horloge du G
 Le Steam Deck le fait automatiquement, mais lorsque le GPU est sous-utilisé, le réglage d'une fréquence de vitesse d'horloge peut aider à la stabilité du framerate.
 Bien qu'il permette d'économiser de la batterie, ce paramètre est davantage utilisé pour stabiliser l'utilisation du CPU/GPU et garder sous contrôle le stuttering.
 
-[*]Filtre de mise à l'échelle
-Le filtre de mise à l'échelle est une option qui vous permet de mettre à l'échelle toutes les résolutions qui ont un rapport d'aspect de 16:10 et qui sont inférieures à la résolution native de 1280x800.
+[*]Mode de mise à l'échelle
+Le mode de mise à l'échelle est une option qui vous permet de mettre à l'échelle toutes les résolutions qui ont un rapport d'aspect de 16:10 et qui sont inférieures à la résolution native de 1280x800.
 Il s'agit des résolutions 1152x720, 1024x648 et 960x600. Il existe également 4 options pour le filtre de mise à l'échelle :
 
 [i]Linéaire[/i]: Pas de mise à l'échelle.
@@ -153,9 +143,9 @@ Ces fonctionnalités sont intégrées à SteamOS et ne sont pas aussi facilement
 
 
 [b]Mode Desktop[/b]
-Le Steam Deck possède un mode Desktop auquel vous pouvez accéder par le menu Power qui apparait quand vous appuyez sur le bouton Steam Deck (en bas à gauche), ou en maintenant le bouton Power appuyé.
+Le Steam Deck possède un mode Desktop auquel vous pouvez accéder par le menu Power qui apparait quand vous appuyez sur [:garath_:4], ou en maintenant le bouton Power appuyé.
 De là, en sélectionnant "Switch to Desktop", l'environnement de bureau KDE Plasma va se charger.
-KDE Plasma est l'environnement de bureau que Valve a choisi pour le SD. Il est assez similaire à Windows sous certains aspects mais différents sur d'autres...
+KDE Plasma est l'environnement de bureau que Valve a choisi pour le SD.
 
 
 [b]Discover store[/b]
@@ -177,10 +167,10 @@ Pour chacune, vous pouvez appliquer le layout de commandes que vous souhaitez to
 
 [i]Utiliser le clavier[/i]
 Avec le clavier virtuel vous pouvez écrire en utilisant l'écran tactile, la croix directionnelle, les joysticks ou les trackpads.
-Pour les jeux qui nécessitent d'entrer du texte mais qui n'ont pas de clavier inclus au jeu, vous pouvez ouvrir le clavier en utilisant les boutons STEAM + X
+Pour les jeux qui nécessitent d'entrer du texte mais qui n'ont pas de clavier inclus au jeu, vous pouvez ouvrir le clavier en utilisant les boutons [:garath_:4] + X
 
 [i]Raccourcis globaux[/i]
-En cours de jeu appuyez quelques secondes sur le bouton Steam ou le bouton d'accès rapide pour afficher un guide des raccourcis globaux.
+En cours de jeu appuyez quelques secondes sur [:garath_:4] ou le bouton d'accès rapide pour afficher un guide des raccourcis globaux.
 
 
 [b]Accessoires[/b]
