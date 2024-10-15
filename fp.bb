@@ -192,3 +192,23 @@ Protection en verre matte MagGlass 25,98€ : https://amzn.eu/d/7Jo0yF9
 Protection en verre matte JSAUX (avec gabarit d'install + lot de 2) 13,99€ : https://amzn.eu/d/4FKYf7j
 Protection film matte Brotect (lot de 2) 7,49€ : https://amzn.eu/d/dNPqC08
 
+[b]Acheter un Steam Deck d'occasion: une bonne idée?[/b]
+[i]Le Steam Deck refurbished[/i]
+Le Steam Deck se trouve quelques fois en "refurb" (révisé en profondeur et remis à neuf) sur le store Steam, suivant disponibilité des stocks:
+[url]https://store.steampowered.com/sale/steamdeckrefurbished/?l=french[/url]
+
+[i]Le Steam Deck d'occasion[/i]
+Mais l'occasion est aussi une option, via ce forum ou via vos sites de vente d'occasion préférés. Comme pour tout matériel électronique, il y a des restrictions concernant la garantie: le Steam Deck est garanti 1 an après la 1ère vente (pensez à demander la facture) et les procédures de retour passent par Valve:
+[url=https://help.steampowered.com/fr/faqs/view/04AE-8A9A-F64E-D165]Procédure de retour sur le site du support Steam[/url]
+
+[i]Quels points vérifier sur un Steam Deck d'occasion?[/i]
+_ Version: LCD ou OLED? Le bouton Power de la version LCD est noir, celui de la version OLED est rouge. Mais le vendeur peut aussi avoir changé le bouton (merci les tutoriels iFixIt!). Pour être certain, il faut allumer le Steam Deck et regarder l'épaisseur des bords noirs de l'écran (les bézels), plus fins sur la version OLED que sur la version LCD:
+[img]https://preview.redd.it/better-pictures-of-the-512gb-glossy-steam-deck-oled-along-v0-cbdqv6uj901c1.jpg?width=4096&format=pjpg&auto=webp&s=fc4026ba5bdad298fab358abd5d89ed8c9a01144[/img]
+Sur cette image du forum Reddit, le LCD est en haut et l'OLED en bas.
+_ Ecran LCD: il dispose d'un rétroéclairage donc verifiez si la luminosité est uniforme sur toute la surface de l'écran.
+_ SSD: pour vérifier la taille totale du SSD, il faut aller dans le menu Steam > Paramètres > Stockage
+_ Commandes: pensez à vérifier tous les boutons / joysticks un par un en utilisant l'interface de test intégrée dans le menu Steam > Contrôleur > Tester les entrées du contrôleur. Vérifiez par la même occasion le drift des joysticks (aucun mouvement ne doit être enregistré par l'appareil si les sticks ne bougent pas).
+_ Prise USB: vérifiez si le Steam Deck recharge la batterie lorsque le chargeur est branché au port USB-C. Si un dock ou un adaptateur USB-C est disponible (prenez le votre si vous en avez un), vous pouvez essayer les autres connections du port USB-C du Steam Deck: écran secondaire, clavier/souris, prise réseau, ...
+_ Surchauffe ou erreur de (re?)montage: testez un jeu en 3D demandeur en ressources, avec le Steam Deck en mode FPS illimités (bouton Accès rapide avec les 3 points à droite sous le trackpad > icône en forme d'éclair > Affichage avancé > Pas de limite de FPS et TDP maximum).
+_ Rayures sur l'écran: l'écran estr tactile et ne doit pas être endommagé
+_ Lecteur de cartes SD: si vous avez une carte SD, testez si le lecteur fonctionne et si la carte est détectée.
