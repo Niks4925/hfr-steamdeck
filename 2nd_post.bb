@@ -5,7 +5,7 @@ Voici quelques recommendations pour prendre en main le SD:
 [*] [url=https://store.steampowered.com/app/1794680/Vampire_Survivors/]Vampire Survivors[/url]
 
 La liste des 100 jeux les plus joués sur SD:
-https://store.steampowered.com/sale/decktop100?l=french
+https://store.steampowered.com/charts/steamdecktopplayed
 Globalement vous pouvez être sûr que ceux là fonctionnent correctement.
 
 
