@@ -210,5 +210,5 @@ _ SSD: pour vérifier la taille totale du SSD, il faut aller dans le menu Steam 
 _ Commandes: pensez à vérifier tous les boutons / joysticks un par un en utilisant l'interface de test intégrée dans le menu Steam > Contrôleur > Tester les entrées du contrôleur. Vérifiez par la même occasion le drift des joysticks (aucun mouvement ne doit être enregistré par l'appareil si les sticks ne bougent pas).
 _ Prise USB: vérifiez si le Steam Deck recharge la batterie lorsque le chargeur est branché au port USB-C. Si un dock ou un adaptateur USB-C est disponible (prenez le votre si vous en avez un), vous pouvez essayer les autres connections du port USB-C du Steam Deck: écran secondaire, clavier/souris, prise réseau, ...
 _ Surchauffe ou erreur de (re?)montage: testez un jeu en 3D demandeur en ressources, avec le Steam Deck en mode FPS illimités (bouton Accès rapide avec les 3 points à droite sous le trackpad > icône en forme d'éclair > Affichage avancé > Pas de limite de FPS et TDP maximum).
-_ Rayures sur l'écran: l'écran estr tactile et ne doit pas être endommagé
+_ Rayures sur l'écran: l'écran est tactile et ne doit pas être endommagé
 _ Lecteur de cartes SD: si vous avez une carte SD, testez si le lecteur fonctionne et si la carte est détectée.
