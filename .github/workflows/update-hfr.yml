@@ -19,17 +19,24 @@ jobs:
         with:
           submodules: recursive
 
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v4
+      - name: fp
+        uses: Niks4925/git2hfr-action@main
         with:
-          python-version: 3.11
+          login: ${{ vars.HFR_LOGIN }}
+          file: fp.bb
+          cat: 5
+          post: 204789
+          response: 15123547
+        env:
+          HFR_PASSWD: ${{ secrets.HFR_PASSWD }}
 
-      - name: Install python dependencies
-        run: |
-          python3 -m pip install requests
-          python3 -m pip install BeautifulSoup4
-
-      - name: Update posts
-        run: |
-          python git2hfr/git2hfr.py --auto-login --edit-post 5 204789 15123547 --content-file fp.bb
-          python git2hfr/git2hfr.py --auto-login --edit-post 5 204789 15123567 --content-file 2nd_post.bb
+      - name: 2nd post
+        uses: Niks4925/git2hfr-action@main
+        with:
+          login: ${{ vars.HFR_LOGIN }}
+          file: 2nd_post.bb
+          cat: 5
+          post: 204789
+          response: 15123567
+        env:
+          HFR_PASSWD: ${{ secrets.HFR_PASSWD }}
